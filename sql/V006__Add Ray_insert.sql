@@ -1,0 +1,1 @@
+insert into ray values( 100, 'Ray','Mond','hu?')
