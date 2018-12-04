@@ -1,6 +1,0 @@
-CREATE TABLE city (
-  id INT NOT NULL IDENTITY(1,1),
-  city_name VARCHAR(40) NOT NULL,
-  regionsss VARCHAR(40) NOT NULL,
-  PRIMARY KEY (id)
-);
