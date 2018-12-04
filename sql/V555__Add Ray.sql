@@ -1,7 +1,5 @@
 CREATE TABLE ray (
   id INT NOT NULL IDENTITY(1,1),
   name VARCHAR(100) NOT NULL,
-  surname VARCHAR(100) NOT NULL,
-  title varchar(100),
   PRIMARY KEY (id)
 )
