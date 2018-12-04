@@ -1,0 +1,1 @@
+ALTER TABLE employees ADD AGE INT NOT NULL;
