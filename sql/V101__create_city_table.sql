@@ -1,6 +1,6 @@
 CREATE TABLE city (
   id INT NOT NULL IDENTITY(1,1),
   city_name VARCHAR(40) NOT NULL,
-  regions VARCHAR(40) NOT NULL,
+  regionss VARCHAR(40) NOT NULL,
   PRIMARY KEY (id)
 );
