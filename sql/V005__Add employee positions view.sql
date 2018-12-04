@@ -1,4 +1,4 @@
-CREATE VIEW employee_positions AS
+CREATE VIEW employee_positions2 AS
 
 SELECT employees.id AS employee_id,
 	first_name,
