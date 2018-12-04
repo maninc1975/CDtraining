@@ -1,0 +1,5 @@
+CREATE TABLE ray (
+  id INT NOT NULL IDENTITY(1,1),
+  name VARCHAR(100) NOT NULL,
+  PRIMARY KEY (id)
+)
