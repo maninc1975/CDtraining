@@ -1,4 +1,4 @@
-create table HR.DEPARTMENTS
+create table DEPARTMENTS
 (
   department_id   int not null,
   department_name VARCHAR2(30),
